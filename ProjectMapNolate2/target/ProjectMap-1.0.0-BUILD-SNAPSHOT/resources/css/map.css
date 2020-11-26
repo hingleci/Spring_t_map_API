@@ -1,0 +1,26 @@
+@charset "UTF-8";
+<style>
+body{
+	width: 1000px;
+	position: absolute;
+}
+aside {
+	width:250px;
+	height: 400px;
+	float: left;
+	margin-right:50px; 
+
+}
+#map_search {
+	width:250px;
+	height: 380px;
+	border: 1px solid blue;
+}
+#map_wrap {
+	float: left;
+}
+
+#map_div {
+	/* float: right; */
+}
+</style>
